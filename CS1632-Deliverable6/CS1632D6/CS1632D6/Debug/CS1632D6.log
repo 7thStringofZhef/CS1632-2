@@ -1,0 +1,13 @@
+﻿  Timer.cpp
+  Player.cpp
+  Brick.cpp
+  Breakout.cpp
+  Ball.cpp
+c:\users\zhef\documents\visual studio 2015\projects\cs1632d6\cs1632d6\ball.cpp(18): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\zhef\documents\visual studio 2015\projects\cs1632d6\cs1632d6\ball.cpp(19): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\zhef\documents\visual studio 2015\projects\cs1632d6\cs1632d6\ball.cpp(22): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+c:\users\zhef\documents\visual studio 2015\projects\cs1632d6\cs1632d6\ball.cpp(26): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+c:\users\zhef\documents\visual studio 2015\projects\cs1632d6\cs1632d6\ball.cpp(57): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+c:\users\zhef\documents\visual studio 2015\projects\cs1632d6\cs1632d6\ball.cpp(58): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  CS1632D6.vcxproj -> C:\Users\Zhef\documents\visual studio 2015\Projects\CS1632D6\Debug\CS1632D6.lib
